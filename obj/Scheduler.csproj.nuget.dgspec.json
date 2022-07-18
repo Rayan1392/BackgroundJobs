@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/MarketScreener.csproj": {}
+    "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/Scheduler.csproj": {}
   },
   "projects": {
-    "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/MarketScreener.csproj": {
+    "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/Scheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/MarketScreener.csproj",
-        "projectName": "MarketScreener",
-        "projectPath": "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/MarketScreener.csproj",
+        "projectUniqueName": "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/Scheduler.csproj",
+        "projectName": "Scheduler",
+        "projectPath": "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/Scheduler.csproj",
         "packagesPath": "/Users/kamranabdi/.nuget/packages/",
         "outputPath": "/Users/kamranabdi/Projects/MarketScreener/MarketScreener/obj/",
         "projectStyle": "PackageReference",
